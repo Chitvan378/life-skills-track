@@ -47,7 +47,7 @@ NoSQL is a type of database management system (DBMS) that is designed to handle 
 NoSQL databases offer a flexible, scalable, and high-performance alternative to traditional relational databases. They provide diverse data models and excel in handling unstructured and semi-structured data. However, their suitability depends on the specific use case and trade-offs associated with data consistency and querying capabilities. As the field of NoSQL databases continues to evolve, more mature tools and community support are likely to emerge, further increasing their adoption in various domains.
 
 
-## 6. Refrences
+## 6. References
 
 1. https://azure.microsoft.com/en-in/resources/cloud-computing-dictionary/what-is-nosql-database
 
